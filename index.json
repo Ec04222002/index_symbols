@@ -1,0 +1,926 @@
+[
+  {
+    "name": "AMEX International Market Index Adr",
+    "symbol": "^ADR"
+  },
+  {
+    "name": "Mkt Con Cyc Amer",
+    "symbol": "^ADVA"
+  },
+  {
+    "name": "Advancers AMEX Options",
+    "symbol": "^ADVAO"
+  },
+  {
+    "name": "Advancers Boston",
+    "symbol": "^ADVB"
+  },
+  {
+    "name": "Advancers CBOE",
+    "symbol": "^ADVCO"
+  },
+  {
+    "name": "Advancers Midwest",
+    "symbol": "^ADVM"
+  },
+  {
+    "name": "Advancers NYSE",
+    "symbol": "^ADVN"
+  },
+  {
+    "name": "Advancers Pacific Options",
+    "symbol": "^ADVPO"
+  },
+  {
+    "name": "Advancers NASDAQ NMS",
+    "symbol": "^ADVQE"
+  },
+  {
+    "name": "Advances NASDAQ Listed Stocks",
+    "symbol": "^ADVT"
+  },
+  {
+    "name": "Advancers NASDAQ OTC Bulletin Board",
+    "symbol": "^ADVUE"
+  },
+  {
+    "name": "Advancers Philadelphia",
+    "symbol": "^ADVX"
+  },
+  {
+    "name": "Advancers Philadelphia Options",
+    "symbol": "^ADVXO"
+  },
+  {
+    "name": "ISE Spot AUD USD",
+    "symbol": "^AUM"
+  },
+  {
+    "name": "ISE FX Australian",
+    "symbol": "^AUX"
+  },
+  {
+    "name": "NASDAQ Bank Index",
+    "symbol": "^BANK"
+  },
+  {
+    "name": "Bloomberg WTI Crude Oil Subindex",
+    "symbol": "^BCOMCL"
+  },
+  {
+    "name": "Bloomberg Gold Subindex 3 Month Forw",
+    "symbol": "^BCOMGC3"
+  },
+  {
+    "name": "Bloomberg Copper Subindex",
+    "symbol": "^BCOMHG"
+  },
+  {
+    "name": "Bloomberg Silver Subindex",
+    "symbol": "^BCOMSI"
+  },
+  {
+    "name": "S&P Bank Index Bix",
+    "symbol": "^BIX"
+  },
+  {
+    "name": "KBW Bank Index USD KBX",
+    "symbol": "^BKX"
+  },
+  {
+    "name": "Block Trades - AMEX)",
+    "symbol": "^BLKA"
+  },
+  {
+    "name": "Block Trades - NYSE",
+    "symbol": "^BLOK"
+  },
+  {
+    "name": "PHLX Computer Box Maker Index",
+    "symbol": "^BMX"
+  },
+  {
+    "name": "ISE FX British Pound",
+    "symbol": "^BPX"
+  },
+  {
+    "name": "ISE FX Brazilian Real",
+    "symbol": "^BRB"
+  },
+  {
+    "name": "AMEX Biotechnology Index 15 Stocks",
+    "symbol": "^BTK"
+  },
+  {
+    "name": "ISE FX Canadian Dollar",
+    "symbol": "^CDD"
+  },
+  {
+    "name": "S&P Chemical Index CEX",
+    "symbol": "^CEX"
+  },
+  {
+    "name": "Morgan Stanley Consumer Index CMR",
+    "symbol": "^CMR"
+  },
+  {
+    "name": "NASDAQ Composite Index",
+    "symbol": "^COMPX"
+  },
+  {
+    "name": "Decliners - AMEX",
+    "symbol": "^DECA"
+  },
+  {
+    "name": "Decliners - AMEX Options",
+    "symbol": "^DECAO"
+  },
+  {
+    "name": "Decliners - Boston Stock Exchange",
+    "symbol": "^DECB"
+  },
+  {
+    "name": "Decliners - CBOE",
+    "symbol": "^DECCO"
+  },
+  {
+    "name": "Decliners - Midwest",
+    "symbol": "^DECM"
+  },
+  {
+    "name": "Decliners - NYSE",
+    "symbol": "^DECN"
+  },
+  {
+    "name": "Decliners - Pacific Stock Exchange",
+    "symbol": "^DECP"
+  },
+  {
+    "name": "Decliners - Pacific Stock Exchange Options",
+    "symbol": "^DECPO"
+  },
+  {
+    "name": "Decliners - NASDAQ NMS",
+    "symbol": "^DECQE"
+  },
+  {
+    "name": "Decliners - NASDAQ Listed Stocks",
+    "symbol": "^DECT"
+  },
+  {
+    "name": "Decliners - NASDAQ OTC Bulletin Board",
+    "symbol": "^DECUE"
+  },
+  {
+    "name": "Decliners - Philadelphia",
+    "symbol": "^DECX"
+  },
+  {
+    "name": "Decliners - Philadelphia Options",
+    "symbol": "^DECXO"
+  },
+  {
+    "name": "AMEX Drug Index 1/10 Value",
+    "symbol": "^DGL"
+  },
+  {
+    "name": "Dow Jones Composite Average™ – Actual Value",
+    "symbol": "^DJC"
+  },
+  {
+    "name": "Dow Jones 30 Industrial Index - Actual Value",
+    "symbol": "^DJI"
+  },
+  {
+    "name": "Dow Jones Transportation Index - Actual Value",
+    "symbol": "^DJT"
+  },
+  {
+    "name": "Dow Jones Utility Index -Actual Value",
+    "symbol": "^DJU"
+  },
+  {
+    "name": "Dow Jones Industrial Average®",
+    "symbol": "^DJX"
+  },
+  {
+    "name": "Pharmaceutical Index",
+    "symbol": "^DRG"
+  },
+  {
+    "name": "Dow Jones Transportation Average",
+    "symbol": "^DTX"
+  },
+  {
+    "name": "Dow Jones Utility Average",
+    "symbol": "^DUX"
+  },
+  {
+    "name": "Down Volume - AMEX",
+    "symbol": "^DVOA"
+  },
+  {
+    "name": "Down Volume - Boston Stock Exchange",
+    "symbol": "^DVOB"
+  },
+  {
+    "name": "Down Volume - CBOE",
+    "symbol": "^DVOCO"
+  },
+  {
+    "name": "Down Volume - NYSE Decliners",
+    "symbol": "^DVOL"
+  },
+  {
+    "name": "Down Volume - Midwest",
+    "symbol": "^DVOM"
+  },
+  {
+    "name": "Down Volume - Pacific Stock Exchange",
+    "symbol": "^DVOP"
+  },
+  {
+    "name": "Down Volume - Pacific Stock Exchange Options",
+    "symbol": "^DVOPO"
+  },
+  {
+    "name": "Down Volume - NASDAQ NMS Equities",
+    "symbol": "^DVOQE"
+  },
+  {
+    "name": "Down Volume - NASDAQ Listed Stocks Decliners",
+    "symbol": "^DVOT"
+  },
+  {
+    "name": "Down Volume - NASDAQ OTC Bulletin Board",
+    "symbol": "^DVOUE"
+  },
+  {
+    "name": "Down Volume - Philadelphia Stock Exchange",
+    "symbol": "^DVOX"
+  },
+  {
+    "name": "Down Volume - Philadelphia Options",
+    "symbol": "^DVOXO"
+  },
+  {
+    "name": "Dow Jones U.S. Banks Total Stock Market®",
+    "symbol": "^DWCBNK"
+  },
+  {
+    "name": "Dow Jones U.S. Biotechnology Total Stock Market",
+    "symbol": "^DWCBTC"
+  },
+  {
+    "name": "Dow Jones U.S. Financials Total Stock Market",
+    "symbol": "^DWCFIN"
+  },
+  {
+    "name": "Dow Jones U.S. Health Care Total Stock Market",
+    "symbol": "^DWCHCR"
+  },
+  {
+    "name": "Dow Jones U.S. Real Estate Investment Trusts Total Stock Market",
+    "symbol": "^DWCREI"
+  },
+  {
+    "name": "Dow Jones U.S. Technology Total Stock Market",
+    "symbol": "^DWCTEC"
+  },
+  {
+    "name": "SIG Oil Exploration Index",
+    "symbol": "^EPX"
+  },
+  {
+    "name": "ISE FX Euro Index",
+    "symbol": "^EUI"
+  },
+  {
+    "name": "ISE Spot EUR USD)",
+    "symbol": "^EUU"
+  },
+  {
+    "name": "CBOE Interest Rate 5-Year Index",
+    "symbol": "^FVX"
+  },
+  {
+    "name": "ISE Spot GBP USD)",
+    "symbol": "^GBP"
+  },
+  {
+    "name": "CBOE Gold Volatility Index",
+    "symbol": "^GVZ"
+  },
+  {
+    "name": "S&P Health Care Index",
+    "symbol": "^HCX"
+  },
+  {
+    "name": "PHLX Housing Index",
+    "symbol": "^HGX"
+  },
+  {
+    "name": "AMEX Hong Kong Option Float Rate Index",
+    "symbol": "^HKO"
+  },
+  {
+    "name": "AMEX Hong Kong 30 Index",
+    "symbol": "^HKX"
+  },
+  {
+    "name": "NASDAQ OTC Index - Industrials",
+    "symbol": "^INDS"
+  },
+  {
+    "name": "NASDAQ OTC Index - Insurance",
+    "symbol": "^INSR"
+  },
+  {
+    "name": "CBOE Short Term Interest Rate Comp Index",
+    "symbol": "^IRX"
+  },
+  {
+    "name": "Issues Traded - AMEX",
+    "symbol": "^ISSA"
+  },
+  {
+    "name": "Issues Traded - AMEX Options",
+    "symbol": "^ISSAO"
+  },
+  {
+    "name": "Issues Traded- Boston Stock Exchange",
+    "symbol": "^ISSB"
+  },
+  {
+    "name": "Issues Traded - CBOE",
+    "symbol": "^ISSCO"
+  },
+  {
+    "name": "Issues Traded - Midwest",
+    "symbol": "^ISSM"
+  },
+  {
+    "name": "Issues Traded - Pacific Stock Exchange",
+    "symbol": "^ISSP"
+  },
+  {
+    "name": "Issues Traded - Pacific Stock Exchange Options",
+    "symbol": "^ISSPO"
+  },
+  {
+    "name": "Issues Traded - NASDAQ NMS Equities",
+    "symbol": "^ISSQE"
+  },
+  {
+    "name": "Issues Traded - NASDAQ Listed Stocks",
+    "symbol": "^ISST"
+  },
+  {
+    "name": "Issues Traded - NYSE Listed Stocks",
+    "symbol": "^ISSU"
+  },
+  {
+    "name": "Issues Traded - NASDAQ OTC Bulletin Board",
+    "symbol": "^ISSUE"
+  },
+  {
+    "name": "Issues Traded - Philadelphia Stock Exchange",
+    "symbol": "^ISSX"
+  },
+  {
+    "name": "Issues Traded - Philadelphia Options",
+    "symbol": "^ISSXO"
+  },
+  {
+    "name": "S&P Insurance Index",
+    "symbol": "^IUX"
+  },
+  {
+    "name": "NASDAQ Computer Index",
+    "symbol": "^IXCO"
+  },
+  {
+    "name": "NASDAQ Financial 100 Index",
+    "symbol": "^IXF"
+  },
+  {
+    "name": "NASDAQ Telecommunications Index",
+    "symbol": "^IXTC"
+  },
+  {
+    "name": "AMEX Japan Index",
+    "symbol": "^JPN"
+  },
+  {
+    "name": "S&P Midcap 400 FLEX OC Settle",
+    "symbol": "^MDO"
+  },
+  {
+    "name": "S&P Midcap 400 FLEX OCHL Settle",
+    "symbol": "^MIA"
+  },
+  {
+    "name": "S&P Midcap 400® Index",
+    "symbol": "^MID"
+  },
+  {
+    "name": "S&P Midcap 400 FLEX HL Settle",
+    "symbol": "^MIH"
+  },
+  {
+    "name": "Mini-NASDAQ 100 Index",
+    "symbol": "^MNX"
+  },
+  {
+    "name": "AMEX Morgan Stanley High Tech 35 Index",
+    "symbol": "^MSH"
+  },
+  {
+    "name": "AMEX Mexico Index",
+    "symbol": "^MXY"
+  },
+  {
+    "name": "ISE Spot NZD USD",
+    "symbol": "^NDO"
+  },
+  {
+    "name": "CBOE NASDAQ 100 Index",
+    "symbol": "^NDX"
+  },
+  {
+    "name": "NYSE Composite Index",
+    "symbol": "^NYA"
+  },
+  {
+    "name": "ISE FX New Zealand",
+    "symbol": "^NZD"
+  },
+  {
+    "name": "S&P 100 FLEX Opening Exercise Settle Value",
+    "symbol": "^OET"
+  },
+  {
+    "name": "S&P 100 Index",
+    "symbol": "^OEX"
+  },
+  {
+    "name": "NADAQ OTC Index - Other Financial",
+    "symbol": "^OFIN"
+  },
+  {
+    "name": "PHLX Euro Style Oil Service Sector Index",
+    "symbol": "^OSX"
+  },
+  {
+    "name": "CBOE Crude Oil Vol",
+    "symbol": "^OVX"
+  },
+  {
+    "name": "NYSE ARCA Technology 100 Index",
+    "symbol": "^PSE"
+  },
+  {
+    "name": "ISE FX Mexican Peso",
+    "symbol": "^PZO"
+  },
+  {
+    "name": "Russell 2000 Opening Ex. Settle Value",
+    "symbol": "^RLS"
+  },
+  {
+    "name": "S&P Retail Index",
+    "symbol": "^RLX"
+  },
+  {
+    "name": "CBOE Russell 3000® Index",
+    "symbol": "^RUA"
+  },
+  {
+    "name": "CBOE Russell 1000® Index",
+    "symbol": "^RUI"
+  },
+  {
+    "name": "CBOE Russell 2000® Index",
+    "symbol": "^RUT"
+  },
+  {
+    "name": "Russell 2000 Vol Index",
+    "symbol": "^RVX"
+  },
+  {
+    "name": "ISE Swiss Franc Index",
+    "symbol": "^SFC"
+  },
+  {
+    "name": "S&P 500 Citigroup Growth Index",
+    "symbol": "^SGX"
+  },
+  {
+    "name": "ISE FX Swedish Krona Index",
+    "symbol": "^SKA"
+  },
+  {
+    "name": "PHLX Semiconductor Sector Index",
+    "symbol": "^SOX"
+  },
+  {
+    "name": "S&P Smallcap 600® Index",
+    "symbol": "^SML"
+  },
+  {
+    "name": "S&P 500 Spread - Difference between the near month and the index of the S&P 500.",
+    "symbol": "^SPS"
+  },
+  {
+    "name": "S&P 500® Index",
+    "symbol": "^SPX"
+  },
+  {
+    "name": "S&P 500 PM-Settled",
+    "symbol": "^SPXPM"
+  },
+  {
+    "name": "S&P Barra Value Index",
+    "symbol": "^SVX"
+  },
+  {
+    "name": "TICK - AMEX Up/Down Ratio",
+    "symbol": "^TICA"
+  },
+  {
+    "name": "TICK - Cincinnati Stock Exchange up/down Ratio",
+    "symbol": "^TICC"
+  },
+  {
+    "name": "TICK - CBOE up/down Ratio",
+    "symbol": "^TICCO"
+  },
+  {
+    "name": "TICK - NYSE Tick Index",
+    "symbol": "^TICK"
+  },
+  {
+    "name": "TICK - PSE Options up/down Ratio",
+    "symbol": "^TICPO"
+  },
+  {
+    "name": "TICK - NASDAQ NMS Equities up/down Ratio",
+    "symbol": "^TICQE"
+  },
+  {
+    "name": "TICK - NASDAQ Listed Stocks up/down Ratio",
+    "symbol": "^TICT"
+  },
+  {
+    "name": "TICK - NASDAQ OTC Bulletin Board up/down Ratio",
+    "symbol": "^TICUE"
+  },
+  {
+    "name": "TICK - Philadelphia Stock Exchange up/down Ratio",
+    "symbol": "^TICX"
+  },
+  {
+    "name": "TICK - Philadelphia Options up/down Ratio",
+    "symbol": "^TICXO"
+  },
+  {
+    "name": "TICK - Dow Jones Composite up/down Ratio",
+    "symbol": "^TIKC"
+  },
+  {
+    "name": "TICK - Dow Jones Industrial up/down ratio",
+    "symbol": "^TIKI"
+  },
+  {
+    "name": "TICK - Dow Jones Transportation up/down Ratio",
+    "symbol": "^TIKT"
+  },
+  {
+    "name": "TICK - Dow Jones Utility up/down Ratio",
+    "symbol": "^TIKU"
+  },
+  {
+    "name": "CBOE Interest Rate 10-Year Index",
+    "symbol": "^TNX"
+  },
+  {
+    "name": "NASDAQ OTC Transportation Index",
+    "symbol": "^TRANX"
+  },
+  {
+    "name": "TRIN - AMEX Short Term Trading Index",
+    "symbol": "^TRIA"
+  },
+  {
+    "name": "TRIN - AMEX Options Short Term Trading Index",
+    "symbol": "^TRIAO"
+  },
+  {
+    "name": "TRIN - Boston Short Term Trading Index",
+    "symbol": "^TRIB"
+  },
+  {
+    "name": "TRIN - CBOE Short Term Trading Index",
+    "symbol": "^TRICO"
+  },
+  {
+    "name": "TRIN - Midwest Short Term Trading Index",
+    "symbol": "^TRIM"
+  },
+  {
+    "name": "TRIN - NYSE Short Term Trading Index",
+    "symbol": "^TRIN"
+  },
+  {
+    "name": "TRIN - PSE Short Term Trading Index",
+    "symbol": "^TRIP"
+  },
+  {
+    "name": "TRIN - NASDAQ NMS Short Term Trading Index",
+    "symbol": "^TRIQE"
+  },
+  {
+    "name": "TRIN - NASDAQ Listed Short Term Trading Index",
+    "symbol": "^TRIT"
+  },
+  {
+    "name": "TRIN - NASDAQ OTC Bulletin Board Short Term Trading Index",
+    "symbol": "^TRIUE"
+  },
+  {
+    "name": "TRIN - Philadelphia Short Term Trading Index",
+    "symbol": "^TRIX"
+  },
+  {
+    "name": "TRIN - Philadelphia Options Short Term Trading Index",
+    "symbol": "^TRIXO"
+  },
+  {
+    "name": "CBOE Interest Rate 30-Year",
+    "symbol": "^TYX"
+  },
+  {
+    "name": "Unchanged Issues - AMEX",
+    "symbol": "^UNCA"
+  },
+  {
+    "name": "Unchanged Issues - AMEX Options",
+    "symbol": "^UNCAO"
+  },
+  {
+    "name": "Unchanged Issues - Boston Stock Exchange",
+    "symbol": "^UNCB"
+  },
+  {
+    "name": "Unchanged Issues - CBOE",
+    "symbol": "^UNCCO"
+  },
+  {
+    "name": "Unchanged Issues - Midwest",
+    "symbol": "^UNCM"
+  },
+  {
+    "name": "Unchanged Issues - NYSE",
+    "symbol": "^UNCN"
+  },
+  {
+    "name": "Unchanged Issues - Pacific Stock Exchange",
+    "symbol": "^UNCP"
+  },
+  {
+    "name": "Unchanged Issues - PSE Options",
+    "symbol": "^UNCPO"
+  },
+  {
+    "name": "Unchanged Issues - NASDAQ NMS Equities",
+    "symbol": "^UNCQE"
+  },
+  {
+    "name": "Unchanged Issues - NASDAQ Listed Intermarket",
+    "symbol": "^UNCT"
+  },
+  {
+    "name": "Unchanged Issues - NASDAQ OTC Bulletin Board",
+    "symbol": "^UNCUE"
+  },
+  {
+    "name": "Unchanged Issues - Philadelphia Stock Exchange",
+    "symbol": "^UNCX"
+  },
+  {
+    "name": "Unchanged Issues - Philadelphia Options",
+    "symbol": "^UNCXO"
+  },
+  {
+    "name": "Deutsche Bank U.S. Dollar Index Bull",
+    "symbol": "^USDUPX"
+  },
+  {
+    "name": "Philadelphia Utility Index Capital-Weight",
+    "symbol": "^UTY"
+  },
+  {
+    "name": "Up Volume - AMEX",
+    "symbol": "^UVOA"
+  },
+  {
+    "name": "Up Volume - AMEX Options",
+    "symbol": "^UVOAO"
+  },
+  {
+    "name": "Up Volume - Boston Stock Exchange",
+    "symbol": "^UVOB"
+  },
+  {
+    "name": "Up Volume - CBOE",
+    "symbol": "^UVOCO"
+  },
+  {
+    "name": "Up Volume - NYSE",
+    "symbol": "^UVOL"
+  },
+  {
+    "name": "Up Volume - Midwest",
+    "symbol": "^UVOM"
+  },
+  {
+    "name": "Up Volume - Pacific Stock Exchange",
+    "symbol": "^UVOP"
+  },
+  {
+    "name": "Up Volume - PSE Options",
+    "symbol": "^UVOPO"
+  },
+  {
+    "name": "Up Volume - NASDAQ NMS Equities",
+    "symbol": "^UVOQE"
+  },
+  {
+    "name": "Up Volume - NASDAQ Listed Stocks",
+    "symbol": "^UVOT"
+  },
+  {
+    "name": "Up Volume - NASDAQ OTC Bulletin Board",
+    "symbol": "^UVOUE"
+  },
+  {
+    "name": "Up Volume - Philadelphia Stock Exchange",
+    "symbol": "^UVOX"
+  },
+  {
+    "name": "Up Volume - Philadelphia Options",
+    "symbol": "^UVOXO"
+  },
+  {
+    "name": "CBOE Volatility Index®",
+    "symbol": "^VIX"
+  },
+  {
+    "name": "Volume - AMEX",
+    "symbol": "^VOLA"
+  },
+  {
+    "name": "Volume - AMEX Options",
+    "symbol": "^VOLAO"
+  },
+  {
+    "name": "Volume - Boston Stock Exchange",
+    "symbol": "^VOLB"
+  },
+  {
+    "name": "Volume - CBOE",
+    "symbol": "^VOLCO"
+  },
+  {
+    "name": "Volume - Midwest Stock Exchange",
+    "symbol": "^VOLM"
+  },
+  {
+    "name": "Volume - Pacific Stock Exchange",
+    "symbol": "^VOLP"
+  },
+  {
+    "name": "Volume - Pacific Stock Exchange Options",
+    "symbol": "^VOLPO"
+  },
+  {
+    "name": "Volume - NASDAQ NMS Equities",
+    "symbol": "^VOLQE"
+  },
+  {
+    "name": "Volume - NASDAQ Listed Stocks Third Market",
+    "symbol": "^VOLT"
+  },
+  {
+    "name": "Volume - NYSE Stock Exchange",
+    "symbol": "^VOLU"
+  },
+  {
+    "name": "Volume - NASDAQ OTC Bulletin Board",
+    "symbol": "^VOLUE"
+  },
+  {
+    "name": "Volume - Philadelphia Stock Exchange",
+    "symbol": "^VOLX"
+  },
+  {
+    "name": "Volume - Philadelphia Stock Exchange Options",
+    "symbol": "^VOLXO"
+  },
+  {
+    "name": "CBOE Emerging Market Volatility Index",
+    "symbol": "^VXEEM"
+  },
+  {
+    "name": "Brazil ETF Volatility Index",
+    "symbol": "^VXEWZ"
+  },
+  {
+    "name": "CBOE NASDAQ 100 Volatility Index",
+    "symbol": "^VXN"
+  },
+  {
+    "name": "AMEX Airline Index",
+    "symbol": "^XAL"
+  },
+  {
+    "name": "PHLX American Gold and Silver Index",
+    "symbol": "^XAU"
+  },
+  {
+    "name": "AMEX Securities Broker/Dealer Index",
+    "symbol": "^XBD"
+  },
+  {
+    "name": "AMEX Computer Technology Index",
+    "symbol": "^XCI"
+  },
+  {
+    "name": "PHLX Australian Dollar",
+    "symbol": "^XDA"
+  },
+  {
+    "name": "PHLX British Pound",
+    "symbol": "^XDB"
+  },
+  {
+    "name": "PHLX Canadian Dollar",
+    "symbol": "^XDC"
+  },
+  {
+    "name": "PHLX Euro Index",
+    "symbol": "^XDE"
+  },
+  {
+    "name": "PHLX Japanese Yen",
+    "symbol": "^XDN"
+  },
+  {
+    "name": "PHLX Swiss Franc",
+    "symbol": "^XDS"
+  },
+  {
+    "name": "PHLX New Zealand Dollar",
+    "symbol": "^XEO"
+  },
+  {
+    "name": "Euro S&P 100 Index",
+    "symbol": "^XDZ"
+  },
+  {
+    "name": "AMEX Institutional Index",
+    "symbol": "^XII"
+  },
+  {
+    "name": "AMEX Major Market 1/10 Value",
+    "symbol": "^XLT"
+  },
+  {
+    "name": "AMEX Major Market Index",
+    "symbol": "^XMI"
+  },
+  {
+    "name": "AMEX Natural Gas Index",
+    "symbol": "^XNG"
+  },
+  {
+    "name": "AMEX Oil and Gas Index",
+    "symbol": "^XOI"
+  },
+  {
+    "name": "Mini-S&P 500 PM-Settle",
+    "symbol": "^XSP"
+  },
+  {
+    "name": "Mini-S&P 500",
+    "symbol": "^XSPAM"
+  },
+  {
+    "name": "North American Telecommunications Index",
+    "symbol": "^XTC"
+  },
+  {
+    "name": "ISE FX Yen Index",
+    "symbol": "^YUK"
+  }
+]
